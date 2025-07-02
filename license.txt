@@ -1,0 +1,13 @@
+Copyright (c) 2025 LegaC. All rights reserved.
+
+This software and all associated files and intellectual property are the exclusive property of LegaC (https://www.legac.dev).
+
+Permission is hereby NOT granted to use, copy, modify, merge, publish, distribute, sublicense, or sell copies of this software or any portion thereof.
+
+This repository is provided for demonstration, educational, and internal collaboration purposes only. Any external use—including commercial use, hosting, replication, distribution, or training of AI models based on this code—requires express written permission from LegaC.
+
+Unauthorized use is strictly prohibited and may be subject to legal action.
+
+To request licensing or usage rights, contact: contact@legac.dev
+
+By accessing this repository, you agree to these terms.
